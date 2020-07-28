@@ -1,3 +1,6 @@
+#!/bin/sh
+
 -> Hello there!
 
-->
+->echo "my name is mahesh my user name is mahesh-thinkpad todays date is 28 julyand the time is 2 pm" 
+
